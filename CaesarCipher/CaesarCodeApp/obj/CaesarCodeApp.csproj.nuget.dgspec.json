@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj": {}
+    "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLiibrary.csproj": {
+    "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLiibrary.csproj",
-        "projectName": "CaesarCipherLiibrary",
-        "projectPath": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLiibrary.csproj",
+        "projectUniqueName": "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLibrary.csproj",
+        "projectName": "CaesarCipherLibrary",
+        "projectPath": "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLibrary.csproj",
         "packagesPath": "C:\\Users\\studenti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\obj\\",
+        "outputPath": "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\studenti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj": {
+    "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj",
+        "projectUniqueName": "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj",
         "projectName": "CaesarCodeApp",
-        "projectPath": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj",
+        "projectPath": "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj",
         "packagesPath": "C:\\Users\\studenti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\obj\\",
+        "outputPath": "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\studenti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLiibrary.csproj": {
-                "projectPath": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLiibrary.csproj"
+              "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLibrary.csproj": {
+                "projectPath": "C:\\Users\\studenti\\Source\\Repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLibrary.csproj"
               }
             }
           }

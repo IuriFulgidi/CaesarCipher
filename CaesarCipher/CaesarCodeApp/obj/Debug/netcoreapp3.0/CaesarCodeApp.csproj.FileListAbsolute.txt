@@ -1,0 +1,14 @@
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\obj\Debug\netcoreapp3.0\CaesarCodeApp.csprojAssemblyReference.cache
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\obj\Debug\netcoreapp3.0\CaesarCodeApp.AssemblyInfoInputs.cache
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\obj\Debug\netcoreapp3.0\CaesarCodeApp.AssemblyInfo.cs
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\bin\Debug\netcoreapp3.0\CaesarCodeApp.exe
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\bin\Debug\netcoreapp3.0\CaesarCodeApp.deps.json
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\bin\Debug\netcoreapp3.0\CaesarCodeApp.runtimeconfig.json
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\bin\Debug\netcoreapp3.0\CaesarCodeApp.runtimeconfig.dev.json
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\bin\Debug\netcoreapp3.0\CaesarCodeApp.dll
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\bin\Debug\netcoreapp3.0\CaesarCodeApp.pdb
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\bin\Debug\netcoreapp3.0\CaesarCipherLibrary.dll
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\bin\Debug\netcoreapp3.0\CaesarCipherLibrary.pdb
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\obj\Debug\netcoreapp3.0\CaesarCodeApp.csproj.CopyComplete
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\obj\Debug\netcoreapp3.0\CaesarCodeApp.dll
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCodeApp\obj\Debug\netcoreapp3.0\CaesarCodeApp.pdb

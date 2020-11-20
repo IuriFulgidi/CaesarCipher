@@ -1,0 +1,8 @@
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCipherLiibrary\obj\Debug\netcoreapp3.0\CaesarCipherLibrary.csprojAssemblyReference.cache
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCipherLiibrary\obj\Debug\netcoreapp3.0\CaesarCipherLibrary.AssemblyInfoInputs.cache
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCipherLiibrary\obj\Debug\netcoreapp3.0\CaesarCipherLibrary.AssemblyInfo.cs
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCipherLiibrary\bin\Debug\netcoreapp3.0\CaesarCipherLibrary.deps.json
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCipherLiibrary\bin\Debug\netcoreapp3.0\CaesarCipherLibrary.dll
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCipherLiibrary\bin\Debug\netcoreapp3.0\CaesarCipherLibrary.pdb
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCipherLiibrary\obj\Debug\netcoreapp3.0\CaesarCipherLibrary.dll
+C:\Users\studenti\Source\Repos\CaesarCipher\CaesarCipher\CaesarCipherLiibrary\obj\Debug\netcoreapp3.0\CaesarCipherLibrary.pdb

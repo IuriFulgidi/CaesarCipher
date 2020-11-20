@@ -1,11 +1,11 @@
 ﻿using System;
 
-namespace CaesarCipherLiibrary
+namespace CaesarCipherLibrary
 {
     public abstract class CaesarBase
     {
-        protected int Key { get; set; }
-        private char Cipher(char ch)
+        protected int Key { get; set; } 
+        public char Cipher(char ch)
         {
             //se il caratte non è una lettera si restituisce così com'è
             if (!char.IsLetter(ch))
