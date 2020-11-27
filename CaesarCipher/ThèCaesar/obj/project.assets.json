@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CaesarCipherLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/CaesarCipherLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CaesarCipherLibrary.dll": {}
+        }
+      },
+      "CaesarCodeApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "CaesarCipherLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CaesarCodeApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CaesarCodeApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaesarCipherLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CaesarCipherLiibrary/CaesarCipherLibrary.csproj",
+      "msbuildProject": "../CaesarCipherLiibrary/CaesarCipherLibrary.csproj"
+    },
+    "CaesarCodeApp/1.0.0": {
+      "type": "project",
+      "path": "../CaesarCodeApp/CaesarCodeApp.csproj",
+      "msbuildProject": "../CaesarCodeApp/CaesarCodeApp.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "CaesarCipherLibrary >= 1.0.0",
+      "CaesarCodeApp >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\studenti\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\ThèCaesar\\ThèCaesar.csproj",
+      "projectName": "ThèCaesar",
+      "projectPath": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\ThèCaesar\\ThèCaesar.csproj",
+      "packagesPath": "C:\\Users\\studenti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\ThèCaesar\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\studenti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLibrary.csproj": {
+              "projectPath": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCipherLiibrary\\CaesarCipherLibrary.csproj"
+            },
+            "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj": {
+              "projectPath": "C:\\Users\\studenti\\source\\repos\\CaesarCipher\\CaesarCipher\\CaesarCodeApp\\CaesarCodeApp.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

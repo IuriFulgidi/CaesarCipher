@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaesarCodeApp", "CaesarCode
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaesarCipherLibrary", "CaesarCipherLiibrary\CaesarCipherLibrary.csproj", "{AE9805F3-1AB9-4F22-B68F-B7FABC764AFB}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThèCaesar", "ThèCaesar\ThèCaesar.csproj", "{F4EF67D5-75FE-4311-AB51-31D171B06169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarWPF", "CaesarWPF\CaesarWPF.csproj", "{64E2C676-3A83-4008-9DF5-1AADE1ACDA25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{AE9805F3-1AB9-4F22-B68F-B7FABC764AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE9805F3-1AB9-4F22-B68F-B7FABC764AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE9805F3-1AB9-4F22-B68F-B7FABC764AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4EF67D5-75FE-4311-AB51-31D171B06169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EF67D5-75FE-4311-AB51-31D171B06169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EF67D5-75FE-4311-AB51-31D171B06169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EF67D5-75FE-4311-AB51-31D171B06169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E2C676-3A83-4008-9DF5-1AADE1ACDA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E2C676-3A83-4008-9DF5-1AADE1ACDA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E2C676-3A83-4008-9DF5-1AADE1ACDA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E2C676-3A83-4008-9DF5-1AADE1ACDA25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

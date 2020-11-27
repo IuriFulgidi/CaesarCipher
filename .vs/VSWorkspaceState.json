@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CaesarCipher"
   ],
+  "SelectedNode": "\\CaesarCipher\\CaesarCipher.sln",
   "PreviewInSolutionExplorer": false
 }
